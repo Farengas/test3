@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|c:\\users\\david\\desktop\\cefiaggiornati\\esercizi esame\\esercizio c#\\wpf_pronunciainglese\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|c:\\users\\david\\desktop\\cefiaggiornati\\esercizi esame\\esercizio c#\\wpf_pronunciainglese\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|c:\\users\\david\\desktop\\cefiaggiornati\\esercizi esame\\esercizio c#\\wpf_pronunciainglese\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D603EFA3-87C6-4002-80EF-308B35719637}|WPF_PronunciaInglese.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:52:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-28T12:52:16.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-28T12:51:52.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\CefiAggiornati\\esercizi esame\\esercizio c#\\WPF_PronunciaInglese\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:51:52.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

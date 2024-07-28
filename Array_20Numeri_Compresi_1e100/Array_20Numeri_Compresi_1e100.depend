@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722104139 source:c:\prova programmi c\programmi c++\array_20numeri_compresi_1e100\main.cpp
+	<iostream>
+	<ctime>
+
